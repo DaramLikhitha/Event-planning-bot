@@ -13,7 +13,7 @@ This project is an event planning chatbot built using Streamlit and OpenAI's GPT
 ## Setup
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your_username/event-planning-chatbot.git
+    git clone https://github.com/DaramLikhitha/Event-planning-bot.git
     ```
 2. **Install Dependencies:**
     ```bash
