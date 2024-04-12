@@ -37,7 +37,7 @@ This project is an event planning chatbot built using Streamlit and OpenAI's GPT
 - The chatbot will process the input using OpenAI's GPT-3.5 model and provide relevant recommendations and assistance.
 - Users can interact with the chatbot to refine their event plans, ask follow-up questions, or make changes to their preferences.
 
-![UI of event bot app](/event bot.png)
+![UI of event bot app](https://github.com/DaramLikhitha/Event-planning-bot/blob/60701319f1a8fef78ddf89433745faee202bcf2c/event%20bot.png)
 
 ## Contributing
 Contributions are welcome! If you have any ideas for improving the chatbot or adding new features, feel free to submit a pull request or open an issue.
